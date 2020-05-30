@@ -86,6 +86,28 @@ We want to equip the app with the tools we find useful for you to pick which one
 - Work-in-progress limit
 - An indication that task is too big and should be split into smaller tasks
 
+## FAQ
+
+#### What's the order of tasks in the list? Can I reorder them?
+
+There's no drag'n'drop. Having it would mean that you would need to prioritize your tasks all the time. The goal is to do the prioritization automatically based on the information available on the task itself. You can indicate perceived outside priority and the app will automatically re-sort your tasks. If two tasks have the same priority, older tasks will be on the top. This allows you to operate with steady progress, leaving no task behind. This applies to default sorting by priority/urgency, there're also other sorting options you can choose from (by estimate, by age etc.).
+
+#### Why is one of the tasks always highlighted in bold?
+
+This task was determined as most urgent and you should work on it next before other tasks. This guides you to operate with steady progress, leaving no task behind, and frees you from the mental overhead of deciding what to work on next all the time. Highlight the next most urgent task can be disabled in the settings.
+
+#### How do I collapse a certain section?
+
+Just double-click the section name.
+
+#### How do I see the total estimate in a certain section?
+
+Hover over section name and tooltip with the sum of estimates of all the tasks in this section will appear.
+
+#### What is the warning icon next to Started status in the task list?
+
+You've reached the work-in-progress limit indicating you that you have a lot of stuff in progress and probably should complete some of them before picking another task from Next. Work-in-progress limit can be disabled in the settings.
+
 ## Future Work
 
 #### Markdown Everywhere
