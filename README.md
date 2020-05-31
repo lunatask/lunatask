@@ -138,4 +138,4 @@ I'm always on the lookout for new productivity techniques to implement. Let me k
 
 The app is early in development feature-wise, but it's pretty stable and already used by a couple of people.
 
-Please, contact me at work@mikekreeki.com and I'll send you an invite.
+Support the project on [Patreon](https://www.patreon.com/mikekreeki) to join a private beta.
