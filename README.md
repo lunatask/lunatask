@@ -86,6 +86,9 @@ We want to equip the app with the tools we find useful for you to pick which one
 - Work-in-progress limit
 - An indication that task is too big and should be split into smaller tasks
 
+## Screenshots
+![Alt text](/screenshots/screenshot-1.png?raw=true)
+
 ## FAQ
 
 #### What's the order of tasks in the list? Can I reorder them?
