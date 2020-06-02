@@ -4,7 +4,7 @@
 
 # Tasks
 
-The modern society puts a lot of pressure on each one of us and task management apps could be more than just an extension to your memory. Get stuff _actually_ done this time.
+The modern society puts a lot of pressure on each one of us and task management apps could be more than just an extension to your memory.
 
 This app remembers stuff for you so you don't have to, helps you prioritize what to work on next and makes it a stress-free process. Choose from a variety of productivity techniques to get stuff actually done. Inspired by Kanban methodology.
 
@@ -16,7 +16,7 @@ This app remembers stuff for you so you don't have to, helps you prioritize what
 - Humans cannot keep the focus on the current task
 - Current productivity apps are good at remembering stuff for humans, they're not so great at helping humans to get stuff actually done
 
-The Goal is to provide the right set of tools for humans to get stuff actually done this time without feeling overwhelmed or stressed too much.
+The goal is to provide the right set of tools for humans to get stuff actually done without feeling overwhelmed or stressed too much.
 
 ## Features
 
@@ -58,7 +58,7 @@ Use your keyboard to speed things up.
 
 #### State of the Art Security
 
-Your data is yours only. All your data in end-to-end encrypted by industry-standard AES-256-GCM and PBKDF2 algorithms. Your data in a plain form will never leave your machine. These same algorithms power password managers like 1Password or LastPass. No one has access to your data, not even us.
+Your data is yours only. All your data in end-to-end encrypted by industry-standard AES-256-GCM and PBKDF2 algorithms. Your data in a plain form will never leave your machine. These same algorithms power password managers like 1Password or LastPass. No one has access to your data, not even me.
 
 #### Real-time Sync and Offline Support
 
@@ -70,11 +70,11 @@ Automatic updates when a new version is released. See [releases](https://github.
 
 #### Designed For Your Mac
 
-Our desktop app is designed to run on macOS. Support for other platforms and mobile apps might be added later but the goal is to figure out and polish the best productivity workflow on macOS first.
+The desktop app is designed to run on macOS. Support for other platforms and mobile apps might be added later but the goal is to figure out and polish the best productivity workflow on macOS first.
 
 #### Opinionated, but..
 
-We want to equip the app with the tools we find useful for you to pick which ones work for you so you can find, create and customize your workflow. You know yourself the best.
+I want to equip the app with the tools I find useful for you to pick which ones work for you so you can find and customize your perfect workflow. You know yourself the best.
 
 ## Productivity Techniques
 
@@ -113,10 +113,8 @@ You've reached the work-in-progress limit indicating you that you have a lot of 
 
 ## Future Work
 
-#### Markdown Everywhere
-Add lists, checkboxes, code blocks and more to your task notes.
-
-#### Learn and Track New Habits
+#### More Markdown 
+Besides links, code blocks and basic formatting let's add headings, lists, checkboxes and more Mardown magic to your task notes.
 
 #### Integrate with Development Tools
 
@@ -128,7 +126,7 @@ See your whole day schedule within the app and plot your tasks in time.
 
 #### Extend with Public API
 
-Automate your workflow with Public API and bring tasks from various sources into the app automagically.
+Automate your workflow with Public API and bring tasks from various sources into the app automagically. Is Public API to nerdy for you? Choose Zapier or IFTTT.
 
 #### New Productivity Techniques
 
