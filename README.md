@@ -118,7 +118,7 @@ Besides links, code blocks and basic formatting let's add headings, lists, check
 
 #### Integrate with Development Tools
 
-How great would it be if all code reviews you were asked to do on Github would automatically appear in your task list? Well, it's coming.
+How great would it be if all code reviews you were asked to do on Github would automatically appear in your task list? Or JIRA tickets? Trello cards? Well, it's coming.
 
 #### Integrate Your Calendar
 
