@@ -126,7 +126,7 @@ See your whole day schedule within the app and plot your tasks in time.
 
 #### Extend with Public API
 
-Automate your workflow with Public API and bring tasks from various sources into the app automagically. Is Public API to nerdy for you? Choose Zapier or IFTTT.
+Automate your workflow with Public API and bring tasks from various sources into the app automagically. Is Public API too nerdy for you? Choose Zapier or IFTTT.
 
 #### New Productivity Techniques
 
