@@ -111,7 +111,7 @@ Hover over section name and tooltip with the sum of estimates of all the tasks i
 
 You've reached the work-in-progress limit indicating you that you have a lot of stuff in progress and probably should complete some of them before picking another task from Next. Work-in-progress limit can be disabled in the settings.
 
-### How do I list completed tasks?
+#### How do I list completed tasks?
 
 Press `CMD+F` the same way as if you would like to search for them. The completed tasks will appear.
 
