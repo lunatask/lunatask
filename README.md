@@ -52,6 +52,10 @@ Not all tasks are actionable. Don't be distracted by those and focus on what you
 
 When you catch yourself procrastinating and unable to start with a big task, give it one pomodoro and you'll see.
 
+#### Practise Makes Perfect
+
+Track progress and learn new habits with a visual habit tracker. Choose which days of the week you want to practise your new habit, stick to your plan and you'll get there.
+
 #### Speed Up with Powerful Shortcuts
 
 Use your keyboard to speed things up.
