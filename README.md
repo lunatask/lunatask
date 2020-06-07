@@ -117,8 +117,8 @@ Press `CMD+F` the same way as if you would like to search for them. The complete
 
 ## Future Work
 
-#### More Markdown 
-Besides links, code blocks and basic formatting let's add headings, lists, checkboxes and more Mardown magic to your task notes.
+#### More Markdown
+Besides links, code blocks and basic formatting let's add headings, lists, checkboxes and more Markdown magic to your task notes.
 
 #### Integrate with Development Tools
 
@@ -130,7 +130,11 @@ See your whole day schedule within the app and plot your tasks in time.
 
 #### Extend with Public API
 
-Automate your workflow with Public API and bring tasks from various sources into the app automagically. Is Public API too nerdy for you? Choose Zapier or IFTTT.
+Automate your workflow with Public API and bring tasks from various sources into the app automagically. Is Public API too nerdy for you? Go with Zapier or IFTTT.
+
+#### Moments, Your Personal Journal
+
+Write down happy memories, places you visited, people you met, stuff you don't want to forget. Then take a look back at all you've accomplished and where the life took you.
 
 #### New Productivity Techniques
 
