@@ -87,7 +87,8 @@ I want to equip the app with the tools I find useful for you to pick which ones 
 - An indication that task is too big and should be split into smaller tasks
 
 ## Screenshots
-![Alt text](/screenshots/screenshot-1.png?raw=true)
+![](/screenshots/screenshot-1.png?raw=true)
+![](/screenshots/screenshot-2.png?raw=true)
 
 ## FAQ
 
