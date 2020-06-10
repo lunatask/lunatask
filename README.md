@@ -48,9 +48,9 @@ Don't be overwhelmed. Estimate the time needed to complete each task to see how 
 
 Not all tasks are actionable. Don't be distracted by those and focus on what you can actually move forward. Hide everything else.
 
-#### Focus on Single Task with Timers
+#### Focus on a Single Task with Focus Mode
 
-When you catch yourself procrastinating and unable to start with a big task, give it one pomodoro and you'll see.
+When you catch yourself procrastinating or unable to start with a big task, give it one pomodoro and you'll see. Focus Mode is a flexible pomodoro timer which will automatically enable Do Not Disturb for you so you don't get distracted by notifications while focusing on a task.
 
 #### Practise Makes Perfect
 
