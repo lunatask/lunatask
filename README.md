@@ -147,6 +147,4 @@ I'm always on the lookout for new productivity techniques to implement. Let me k
 
 ## Wanna Join the Beta?
 
-The app is early in development feature-wise, but it's pretty stable and already used by a couple of people.
-
-Support the project on [Patreon](https://www.patreon.com/mikekreeki) and become an early adopter.
+The app is early in development feature-wise, but it's pretty stable and already used by a couple of people, and it's free!
