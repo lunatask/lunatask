@@ -149,4 +149,4 @@ I'm always on the lookout for new productivity techniques to implement. Let me k
 
 Lunatask is early in development feature-wise, but it's pretty stable and already used by a couple of people, and it's free! 
 
-Download the latest version [here](https://github.com/mikekreeki/tasks-releases/releases) and report issues in the [issue tracker](https://github.com/mikekreeki/tasks-releases/issues).
+Download the latest version [here](https://github.com/mikekreeki/tasks-releases/releases).
