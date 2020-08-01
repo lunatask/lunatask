@@ -2,11 +2,11 @@
   <img width="256" height="256" src="https://raw.githubusercontent.com/mikekreeki/tasks-releases/master/icon.png">
 </p>
 
-# Tasks
+# Lunatask
 
 The modern society puts a lot of pressure on each one of us and task management apps could be more than just an extension to your memory.
 
-This app remembers stuff for you so you don't have to, helps you prioritize what to work on next and makes it a stress-free process. Choose from a variety of productivity techniques to get stuff actually done. Inspired by Kanban methodology.
+Lunatask remembers stuff for you so you don't have to, helps you prioritize what to work on next and makes it a stress-free process. Choose from a variety of productivity techniques to get stuff actually done. Inspired by Kanban methodology.
 
 ## The Premise
 
@@ -22,11 +22,11 @@ The goal is to provide the right set of tools for humans to get stuff actually d
 
 #### Prioritize with Ease
 
-Group and sort tasks by any dimension to see what's important. The app always tries to bubble the most urgent tasks to the top.
+Group and sort tasks by any dimension to see what's important. Lunatask always tries to bubble the most urgent tasks to the top.
 
 #### Automatic Task Prioritization Based on Urgency
 
-The app highlights the task you should pick up next to keep you focused and on track.
+Lunatask highlights the task you should pick up next to keep you focused and on track.
 
 #### Keep Your Lives Separate
 
@@ -66,7 +66,7 @@ Your data is yours only. All your data in end-to-end encrypted by industry-stand
 
 #### Real-time Sync and Offline Support
 
-It's a desktop app, build to be offline-first with native feel on Mac and real-time synchronization between multiple devices.
+Lunatask is an offline-first desktop app with native feel on Mac and real-time synchronization between multiple devices.
 
 #### Automatic Updates
 
@@ -74,7 +74,7 @@ Automatic updates when a new version is released. See [releases](https://github.
 
 #### Designed For Your Mac
 
-The desktop app is designed to run on macOS. Support for other platforms and mobile apps might be added later but the goal is to figure out and polish the best productivity workflow on macOS first.
+Lunatask is designed to run on macOS. Support for other platforms and mobile apps might be added later but the goal is to figure out and polish the best productivity workflow on macOS first.
 
 #### Opinionated, but..
 
@@ -98,7 +98,7 @@ I want to equip the app with the tools I find useful for you to pick which ones 
 
 #### What's the order of tasks in the list? Can I reorder them?
 
-There's no drag'n'drop. Having it would mean that you would need to prioritize your tasks all the time. The goal is to do the prioritization automatically based on the information available on the task itself. You can indicate perceived outside priority and the app will automatically re-sort your tasks. If two tasks have the same priority, older tasks will be on the top. This allows you to operate with steady progress, leaving no task behind. This applies to default sorting by priority/urgency, there're also other sorting options you can choose from (by estimate, by age etc.).
+There's no drag'n'drop. Having it would mean that you would need to prioritize your tasks all the time. The goal is to do the prioritization automatically based on the information available on the task itself. You can indicate perceived outside priority and Lunatask will automatically re-sort your tasks. If two tasks have the same priority, older tasks will be on the top. This allows you to operate with steady progress, leaving no task behind. This applies to default sorting by priority/urgency, there're also other sorting options you can choose from (by estimate, by age etc.).
 
 #### Why is one of the tasks always highlighted in bold?
 
@@ -147,6 +147,6 @@ I'm always on the lookout for new productivity techniques to implement. Let me k
 
 ## Wanna Join the Beta?
 
-The app is early in development feature-wise, but it's pretty stable and already used by a couple of people, and it's free! 
+Lunatask is early in development feature-wise, but it's pretty stable and already used by a couple of people, and it's free! 
 
 Download the latest version [here](https://github.com/mikekreeki/tasks-releases/releases) and report issues in the [issue tracker](https://github.com/mikekreeki/tasks-releases/issues).
