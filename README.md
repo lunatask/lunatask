@@ -92,6 +92,7 @@ I want to equip the app with the tools I find useful for you to pick which ones 
 
 ## Screenshots
 ![](/screenshots/screenshot-1.png?raw=true)
+![](/screenshots/screenshot-3.png?raw=true)
 ![](/screenshots/screenshot-2.png?raw=true)
 
 ## FAQ
